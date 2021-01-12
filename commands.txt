@@ -1,0 +1,10 @@
+Fylrobot commands for CollabVM:
+
+!help - Help.
+!spam - Spams a phrase in chat.
+!rapidname - Changes name rapidly.
+!custommessage - Makes Fylrobot say a custom message.
+!screenshot - Takes screenshot of VM.
+!turnspam - Spams turn.
+!disconnect - Reloads page.
+!record - Record VM screen.
