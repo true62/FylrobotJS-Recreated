@@ -8,3 +8,4 @@ Fylrobot commands for CollabVM:
 !turnspam - Spams turn.
 !disconnect - Reloads page.
 !record - Record VM screen.
+!customscript - Add a script from a URL.
