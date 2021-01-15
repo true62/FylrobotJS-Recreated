@@ -9,5 +9,5 @@ Fylrobot commands for CollabVM:
 !disconnect - Reloads page.
 !record - Record VM screen.
 !customscript - Add a script from a URL.
-!darkmode - Adds dark mode to your screen. (Made by @netflixcvm on repl.it, or netflix on CollabVM.)
+!darkmode - Adds dark mode to your screen. (Made by netflix on CollabVM.)
 !autotype - Autotypes a phrase inside the VM. (also made by Netflix.)
