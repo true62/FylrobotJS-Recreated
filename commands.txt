@@ -11,3 +11,4 @@ Fylrobot commands for CollabVM:
 !customscript - Add a script from a URL.
 !darkmode - Adds dark mode to your screen. (Made by netflix on CollabVM.)
 !autotype - Autotypes a phrase inside the VM. (also made by Netflix.)
+!voteyes/voteno - Votes in a VM reset for you. (Keep in mind this does not add one more vote, it just does it for you.)
